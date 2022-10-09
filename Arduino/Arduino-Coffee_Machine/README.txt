@@ -1,0 +1,1 @@
+Program imitating the interface of a coffee machine with the use of a keyboard and LCD display.

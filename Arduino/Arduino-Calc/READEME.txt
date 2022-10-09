@@ -1,0 +1,1 @@
+Calculator program that performs arithmetic operations using the keyboard and LCD display.
